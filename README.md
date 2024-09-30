@@ -4,11 +4,11 @@ This project analyzes inventory and sales data for Boxify to provide actionable 
 
 ## Project Structure
 
-- **data/**: Contains raw and processed sales data (`sales_data.csv`).
-- **scripts/**: Python scripts for data preprocessing and inventory analysis (`data_preprocessing.py`, `inventory_analysis.py`).
-- **notebooks/**: Jupyter notebooks for in-depth analysis and visualization (`Inventory_Analysis.ipynb`).
-- **visualizations/**: Charts and plots generated during the analysis (`sales_trends.png`, `stock_to_sales_ratio.png`).
-- **report/**: Final analysis report summarizing findings and recommendations (`Inventory_Analysis_Report.pdf`).
+- **data/**: Contains raw and processed sales data.
+- **scripts/**: Python scripts for data preprocessing and inventory analysis.
+- **notebooks/**: Jupyter notebooks for in-depth analysis and visualization.
+- **visualizations/**: Charts and plots generated during the analysis.
+- **report/**: Final analysis report summarizing findings and recommendations.
 
 ## Installation Instructions
 
