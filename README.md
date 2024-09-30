@@ -1,6 +1,4 @@
 # inventory_management_analysis_project
-# Inventory Management Analysis Project
-
 ## Overview
 This project analyzes inventory and sales data for Boxify to provide actionable insights for optimizing inventory management. The analysis focuses on key metrics such as stock-to-sales ratios, inventory turnover, reorder points, and sales trends.
 
